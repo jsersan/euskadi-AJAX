@@ -1,0 +1,28 @@
+[{
+        "latitude": 42.864436,
+        "longitude": -2.641172,
+        "territory": "Alava",
+        "documentName": "Vitoria-Gasteiz",
+        "municipality": "Vitoria-Gasteiz",
+        "turismDescription": "Además de ser el centro político y administrativo de Euskadi, Vitoria-Gasteiz es un innegable ejemplo de buen vivir. Y es que, la capital alavesa cuenta con un rico patrimonio histórico-artístico, un sinfín de zonas ajardinadas, espacios peatonales ideales para el ocio y equipamientos cívicos.",
+        "web": "http://www.vitoria-gasteiz.org"
+    },
+    {
+        "latitude": 43.2918111,
+        "longitude": -1.9885133,
+        "territory": "Gipuzkoa",
+        "documentName": "Donostia-San Sebastian",
+        "municipality": "Donostia-San Sebastian",
+        "turismDescription": "Hermosa, elegante, exquisita, coqueta, señorial. Así es Donostia / San Sebastián, una ciudad abierta al mar y considerada por muchos la capital turística de Euskadi. Posee una de las bahías más bellas del mundo, la de La Concha, y tres playas urbanas (La Concha, Zurriola y Ondarreta). Donostia / San Sebastián está rodeada de montes y miradores (Igeldo, Urgull, Ulia y la Isla de Santa Clara) y vertebrada por el río Urumea.",
+        "web": "https://www.sansebastianturismo.com/es"
+    },
+    {
+        "latitude": 43.2627106,
+        "longitude": -2.9252801,
+        "territory": "Vizcaya",
+        "documentName": "Bilbo-Bilbao",
+        "municipality": "Bilbo-Bilbao",
+        "turismDescription": "Bilbao es la urbe vasca más cosmopolita, poblada e inquieta. Se trata de una ciudad camaleónica, que durante las últimas dos décadas ha sabido reinventarse a sí misma, transformando por completo tanto su carácter como su fisonomía ello no le ha impedido conservar el encanto y carisma de sus viejos rincones.",
+        "web": "http://www.bilbaoturismo.net/BilbaoTurismo/es/turistas"
+    }
+]
